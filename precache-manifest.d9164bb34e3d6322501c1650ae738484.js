@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3610253e1ca3d9bf8965a727f0969d2e",
+    "revision": "0a9028a49def52c79436d37dcdb223ea",
     "url": "/index.html"
   },
   {
-    "revision": "671c0c61d4657b513b58",
-    "url": "/static/js/2.6ae10a90.chunk.js"
+    "revision": "4adb7187c38fe01d0e52",
+    "url": "/static/js/2.3c9dff1c.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.6ae10a90.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3c9dff1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7874c8fc0ad3b8292eb8",
-    "url": "/static/js/main.2a29864e.chunk.js"
+    "revision": "e548e257160f6fb517ec",
+    "url": "/static/js/main.b3aa20ae.chunk.js"
   },
   {
     "revision": "39183fd641aaef151a05",
@@ -36,11 +36,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/block-elsewhere.3ff0b1f1.png"
   },
   {
+    "revision": "185152a69c895950273d078b5aed2434",
+    "url": "/static/media/block-favicon-clear.185152a6.png"
+  },
+  {
     "revision": "1d466e53b6baa5f5aefca45f944baa49",
     "url": "/static/media/block-home.1d466e53.png"
   },
   {
-    "revision": "0faa788b33379e6aabc0ef21741a1d3f",
-    "url": "/static/media/site-image.0faa788b.png"
+    "revision": "2ef011654bb0c6f6ac25f4293cee8fd7",
+    "url": "/static/media/clown.2ef01165.png"
+  },
+  {
+    "revision": "d2e4743d3aeda8a58687d2660bd307d1",
+    "url": "/static/media/site-image.d2e4743d.png"
   }
 ]);
