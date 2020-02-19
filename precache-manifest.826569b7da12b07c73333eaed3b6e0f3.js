@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3050376cfc6e85c508a463b129da819e",
+    "revision": "dd9785777fe175a1df233280b2193982",
     "url": "/index.html"
   },
   {
-    "revision": "4adb7187c38fe01d0e52",
-    "url": "/static/js/2.3c9dff1c.chunk.js"
+    "revision": "a3c17aa4d5852e8178c3",
+    "url": "/static/js/2.9c084163.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.3c9dff1c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9c084163.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "224ef3c103a61ff9c6da",
-    "url": "/static/js/main.858d87a2.chunk.js"
+    "revision": "3639329377d24e5f7a03",
+    "url": "/static/js/main.dcd71dc5.chunk.js"
   },
   {
     "revision": "39183fd641aaef151a05",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c9a42dc3f8efaa9135bdd82e00bbd1a8",
     "url": "/static/media/Px437_IBM_VGA8.c9a42dc3.ttf"
+  },
+  {
+    "revision": "6cd401ab622379d8914332666cb11f13",
+    "url": "/static/media/block-about.6cd401ab.png"
   },
   {
     "revision": "e97a59a1cd21a24756baec6098c0b297",
