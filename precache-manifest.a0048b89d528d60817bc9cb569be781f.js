@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd9785777fe175a1df233280b2193982",
+    "revision": "808c8277bce41cc21dedaa80fc665d4a",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.9c084163.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3639329377d24e5f7a03",
-    "url": "/static/js/main.dcd71dc5.chunk.js"
+    "revision": "86a116bbcf1376f0e6fb",
+    "url": "/static/js/main.e7ab6eaa.chunk.js"
   },
   {
     "revision": "39183fd641aaef151a05",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Px437_IBM_VGA8.c9a42dc3.ttf"
   },
   {
-    "revision": "6cd401ab622379d8914332666cb11f13",
-    "url": "/static/media/block-about.6cd401ab.png"
+    "revision": "5c0ece4771bfe18b6775c60cca2ec2b2",
+    "url": "/static/media/block-about.5c0ece47.png"
   },
   {
     "revision": "e97a59a1cd21a24756baec6098c0b297",
