@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.4977c1bb.chunk.js",
-    "main.js.map": "/static/js/main.4977c1bb.chunk.js.map",
+    "main.js": "/static/js/main.c42140e0.chunk.js",
+    "main.js.map": "/static/js/main.c42140e0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.70ba4468.js",
     "runtime-main.js.map": "/static/js/runtime-main.70ba4468.js.map",
     "static/js/2.4ff91b18.chunk.js": "/static/js/2.4ff91b18.chunk.js",
     "static/js/2.4ff91b18.chunk.js.map": "/static/js/2.4ff91b18.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6e3352eda411bed6dda00d994824acd6.js": "/precache-manifest.6e3352eda411bed6dda00d994824acd6.js",
+    "precache-manifest.9fc30b919262242416cd816d914edf0e.js": "/precache-manifest.9fc30b919262242416cd816d914edf0e.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.4ff91b18.chunk.js.LICENSE.txt": "/static/js/2.4ff91b18.chunk.js.LICENSE.txt",
     "static/media/Px437_IBM_VGA8.ttf": "/static/media/Px437_IBM_VGA8.c9a42dc3.ttf",
-    "static/media/block-about.png": "/static/media/block-about.5c0ece47.png",
+    "static/media/block-about.png": "/static/media/block-about.6cd401ab.png",
     "static/media/block-changelog.png": "/static/media/block-changelog.e97a59a1.png",
     "static/media/block-contribute.png": "/static/media/block-contribute.c9e174a0.png",
     "static/media/block-elsewhere.png": "/static/media/block-elsewhere.3ff0b1f1.png",
@@ -23,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.70ba4468.js",
     "static/js/2.4ff91b18.chunk.js",
-    "static/js/main.4977c1bb.chunk.js"
+    "static/js/main.c42140e0.chunk.js"
   ]
 }
