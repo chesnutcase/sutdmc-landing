@@ -7,11 +7,12 @@ const NavLink = styled(Link)``;
 
 const Navbar = styled.ul`
   width: 50vw;
-  margin-left: 45vw;
-  height: 60px;
-  display: flex;
+  // margin-left: 30vw;
+  // height: 60px;
+  display: inline flex;
   list-style: none;
   justify-content: space-evenly;
+  align-items: center;
   font-family: var(--font-primary);
   font-size: 2.5rem;
   color: var(--color-text);
@@ -49,12 +50,38 @@ const NavElement = styled.nav`
 
   @media (max-width: 896px) {
     padding-top: 0;
+    display: block;
+  }
+
+  display: flex;
+  justify-content: space-between;
+  #brand_bar {
+    display: inline flex;
+    margin-left: 10vw;
+    font-family: var(--font-primary);
+    font-size: 2.5em;
+    color: var(--color-text);
+
+    @media (max-width: 896px) {
+      width: 100vw;
+      margin-left: 0;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+
+  #brand_bar img {
+    width: 100px;
+    height: auto;
   }
 `;
 
 function NavbarComp() {
   return (
     <NavElement>
+      <div id="brand_bar">
+        <span>SUTD Minecraft Network</span>
+      </div>
       <Navbar>
         <li>
           <NavLink to="/">Home</NavLink>
